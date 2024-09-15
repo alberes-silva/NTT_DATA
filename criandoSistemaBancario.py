@@ -55,7 +55,7 @@ while True:
         print('********************************************************\n')
         print('Não foram realizadas movimentações.' if not extrato else extrato)
         print(f'\nSaldo: R${saldo:.2f}\n')
-        print('                    Agradedcmos a sua confiança\n')
+        print('                    Agradecemos a sua confiança\n')
         print('********************************************************\n')
     elif opcao == '4':
         print('Finalizada a operação')
